@@ -191,3 +191,40 @@ h1
         position: relative;
     }
 }
+@media(min-width:1400px)
+{
+    main 
+    {
+        width:70%;
+    }
+    h5 
+    {
+        font-size: 2rem;
+    }
+    .inputs 
+    {
+        height: 5em;
+    }
+    .tips 
+    {
+        font-size: 1.5rem;
+        height: 5em;
+    }
+    .custom 
+    {
+        height: 9em;
+        text-align: center;
+    }
+    .container section  
+    {
+        height: 40%;
+    }
+    .reset 
+    {
+        right:1em;
+        left:1em;
+        height: 6em;
+        font-size: 1rem;
+        font-weight: bold;
+    }
+}
